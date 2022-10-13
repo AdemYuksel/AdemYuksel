@@ -4,6 +4,8 @@
 <!--
 **AdemYuksel/AdemYuksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Adem Yuksel GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=reactdersleri&theme=dark)](https://github.com/AdemYuksel)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
